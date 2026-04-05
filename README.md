@@ -34,7 +34,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/sayed132/" target="_blank">
+  <a href="https://www.linkedin.com/in/abusayed132/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:rafsansayed132@gmail.com" target="_blank">
