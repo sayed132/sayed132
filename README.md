@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abu Sayed</h1>
+<!-- <h1 align="center">Hi 👋, I'm Abu Sayed</h1>
 <h3 align="left">👨‍💼 About Me:</h3>
 
 <p> I am a **Full-Stack Developer with a strong backend focus**, experienced in building **scalable and efficient web applications**. I specialize in **Node.js, Express.js, and MongoDB with Prisma** for backend development, while also capable of creating dynamic frontends using **React, TypeScript, and modern JavaScript (ES6+)**. I am passionate about designing **robust backend architectures** that ensure high performance, reliability, and maintainability. </p>
@@ -44,7 +44,7 @@ Technical Skills
   <!-- <img src="https://img.shields.io/github/followers/forhadislamse?label=Followers&style=flat&color=0e75b6" alt="Followers"/> -->
   
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=forhadislamse&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sayed132&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
   
   <!-- Repositories -->
   <!-- <img src="https://img.shields.io/github/repos/forhadislamse?label=Repositories&style=flat&color=0e75b6" alt="Repositories"/> -->
@@ -60,7 +60,7 @@ Technical Skills
 - 🎓 Backend Developer at **Betopia Group**
 - 🎓 Bachelor’s degree in Computer Science & Engineering from **East West University**
 - 💡 Focused on building robust backend architectures, contributing to impactful products, and collaborating with experienced teams in fast-paced environments
-- 📫 Reach me at: **forhadislam.swe@gmail.com**
+- 📫 Reach me at: **rafsansayed132@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/18GIzKdBNuCGqUMKEBcVjgARNMarvLCTH/view?usp=sharing)
 
 ---
