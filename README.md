@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Abu Sayed</h1>
+<h1 align="center">Hi 👋, I'm Abu Sayed</h1>
 <h3 align="left">👨‍💼 About Me:</h3>
 
 <p> I am a **Full-Stack Developer with a strong backend focus**, experienced in building **scalable and efficient web applications**. I specialize in **Node.js, Express.js, and MongoDB with Prisma** for backend development, while also capable of creating dynamic frontends using **React, TypeScript, and modern JavaScript (ES6+)**. I am passionate about designing **robust backend architectures** that ensure high performance, reliability, and maintainability. </p>
@@ -144,5 +144,6 @@ Technical Skills
 <!-- 🔝 **Github Streak** -->
 
 <!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=forhadislamse&theme=tokyonight-light&hide_border=false" alt="GitHub Streak" /></p> -->
-#   s a y e d 1 3 2  
+#   s a y e d 1 3 2 
+ 
  
