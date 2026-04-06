@@ -40,7 +40,7 @@
   <a href="mailto:rafsansayed132@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://x.com/sayed132" target="_blank">
+  <a href="https://x.com/ImSayed132" target="_blank">
     <img 
       src="https://cdn.simpleicons.org/x/white" 
       height="40"
