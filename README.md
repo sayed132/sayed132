@@ -41,10 +41,10 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://t.me/rs_rafsan10" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=25n4hOEoY7ss&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=50&id=25n4hOEoY7ss&format=png&color=000000" />
   </a>
   <a href="https://www.facebook.com/abusayed132" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=50&id=118497&format=png&color=000000" />
   </a>
   <a href="https://x.com/ImSayed132" target="_blank">
     <img 
